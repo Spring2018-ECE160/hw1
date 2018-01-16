@@ -18,7 +18,7 @@ Please follow the instructions carefully. Note: failure to do so will result in 
 2. Create a team (individual or a pair).  
 3. Clone the repository to your unix environment and create a separate submission branch. If you're working in a pair, you may work on the same branch or on separate branches. But when submitting your homework, please consolidate your submission into 1 branch.
 4. Push your submission branch to the repo.
-5. Create a pull request against the master. **Do not merge to master as it will prevent anyone from giving you a review or comments**
+5. Create a pull request against the master. This pull request is your submission. **Do not merge to master as it will prevent anyone from giving you a review or comments**
 
 For all questions, you must do the following:
 * Submit compile-able code

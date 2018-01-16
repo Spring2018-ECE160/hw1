@@ -1,11 +1,10 @@
 # ECE160 - HW#1
 
-Due 01/26/18 at 12AM.
-
+Due 01/26/18 at 12AM.  
 Late submissions are subject to a 20% late penalty.
 
 ## Reading
-The C Programming Language, 2nd Edition - Kerninghan & Ritchie
+The C Programming Language, 2nd Edition - Kerninghan & Ritchie  
 Chapter 1.1, 1.4, 1.7, 1.9, 2.1, 2.2, 2.3, 2.4, 2.5
 
 ## Instructions
@@ -22,6 +21,11 @@ Please follow the instructions carefully. Note: failure to do so will result in 
 5. Create a pull request against the master. **Do not merge to master as it will prevent anyone from giving you a review or comments**
 
 For all questions, you must do the following:
-* Submit code
+* Submit compile-able code
 * Edit the README.md with the compilation steps (even if it is just one line)
 * Edit the README.md to have the output of the program.
+
+## Grading
+
+Output - 50%  
+Code Quality - 50%
